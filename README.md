@@ -16,13 +16,13 @@ Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvime
   Plataforma de ensino de filosofia construída em **WordPress** com plugins customizados.
 
 - [**Minha Escola**](https://minha-escola-olive.vercel.app)  
-  Sistema acadêmico desenvolvido em **Java (Spring Boot)** + **Vue.js**, integrado com **PostgreSQL** e **Supabase**.
+  Sistema acadêmico desenvolvido com **Vue.js**, integrado com **PostgreSQL** e **Supabase**.
 
 - [**Relatório de Trabalho**](https://relatorio-trabalho.vercel.app/login)  
   Aplicação feita em **Vue.js** com **PostgreSQL** e **Supabase** no backend.
 
 - [**Minhas Reservas**](https://minhas-reservas.vercel.app/login)  
-  Sistema de reservas desenvolvido em **Angular** + **Ionic**, utilizando **PostgreSQL** e **Supabase** no backend.
+  Sistema de reservas de recursos para um escola desenvolvido em **Angular** + **Ionic**, utilizando **PostgreSQL** e **Supabase** no backend.
 
 
 ### 📫 Como me encontrar
