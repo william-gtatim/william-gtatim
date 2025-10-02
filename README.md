@@ -30,8 +30,6 @@ Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvime
 - LinkedIn: [linkedin.com/in/williamtatim](https://linkedin.com/in/williamtatim)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=william-gtatim&show_icons=true&theme=radical)
-
 
 
 
