@@ -1,7 +1,6 @@
 ## Olá 👋
-Sou William Tatim, professor de filosofia e estudante de ADS.  
-Apaixonado por tecnologia, design e educação.  
-Atualmente desenvolvendo o app **Lúmia Finanças**.
+Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvimento de Sistema.  
+
 
 ### 🚀 Tech Stack
 - **Backend:** Java · PHP · SQL · PostgreSQL · Supabase
