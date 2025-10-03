@@ -29,7 +29,6 @@ Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvime
 - Email: williamtatim91@gmail.com
 - LinkedIn: [linkedin.com/in/williamtatim](https://linkedin.com/in/williamtatim)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william-gtatim&layout=compact&theme=radical)
 
 
 
