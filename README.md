@@ -1,5 +1,5 @@
 ## Olá 👋
-Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvimento de Sistema.  
+Sou William Tatim, estudante de Análise e Desenvolvimento de Sistema.  
 
 
 ### 🚀 Tech Stack
