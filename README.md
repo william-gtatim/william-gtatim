@@ -3,7 +3,7 @@ Sou William Tatim, professor de filosofia e estudante de Análise e Desenvolvime
 
 
 ### 🚀 Tech Stack
-- **Backend:** Java · PHP · SQL · PostgreSQL · Supabase
+- **Backend:** Java · SQL · PostgreSQL · Supabase
 - **Frontend:** Angular · Vue.js · WordPress · TailwindCSS · HTML · CSS
 - **Mobile/PWA:** Ionic · Angular PWA  
 
