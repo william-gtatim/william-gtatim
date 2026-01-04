@@ -2,12 +2,17 @@
 Sou William Tatim, estudante de Análise e Desenvolvimento de Sistema.  
 
 
-### 🚀 Tech Stack
+### Tech Stack
 - **Backend:** Java · SQL · PostgreSQL · Supabase
 - **Frontend:** Angular · Vue.js · WordPress · TailwindCSS · HTML · CSS
 - **Mobile/PWA:** Ionic · Angular PWA  
 
-## 📌 Projetos
+## Projetos backend java
+
+- [**Sistema de pagamento simplificado**](https://github.com/william-gtatim/desafio-tecnico-sistema-pagamento-simplificado). 
+  Backend de um desafio técnico, focado em transferências financeiras entre usuários, com arquitetura em camadas, aplicação de Domain-Driven Design (DDD) e regras de negócio bem definidas.
+
+## Projetos fullstack
 
 - [**Lúmia Finanças**](https://lumiafinancas.com)  
   App de controle financeiro **PWA** feito com **Angular**, **PostgreSQL** e **Supabase**.
